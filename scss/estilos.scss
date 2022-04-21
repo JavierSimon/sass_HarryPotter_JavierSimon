@@ -1,3 +1,4 @@
+@import "orden/reset";
 @import "orden/queries";
 @import "orden/variables";
 
@@ -78,7 +79,7 @@ main {
         text-align: justify;
         font-size: 20px;
         color: #212529;
-        padding: 5px;
+        padding: 10px;
         margin: 5px;
         line-height: 1.5;
         color: #adb5bd;

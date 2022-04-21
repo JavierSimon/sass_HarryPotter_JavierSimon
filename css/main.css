@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
 #contenedor {
   display: grid;
   height: 60vh;
@@ -89,7 +94,7 @@ main {
     text-align: justify;
     font-size: 20px;
     color: #212529;
-    padding: 5px;
+    padding: 10px;
     margin: 5px;
     line-height: 1.5;
     color: #adb5bd; }
